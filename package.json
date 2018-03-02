@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-docker",
+  "version": "1.0.0",
+  "description": "A nodejs dockerizer example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hecto932/nodejs-docker.git"
+  },
+  "keywords": [
+    "docker",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Hector Flores <hecto932@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hecto932/nodejs-docker/issues"
+  },
+  "homepage": "https://github.com/hecto932/nodejs-docker#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
